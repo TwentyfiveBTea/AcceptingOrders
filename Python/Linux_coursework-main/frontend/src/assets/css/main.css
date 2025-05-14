@@ -1,0 +1,12 @@
+/* 全局变量 */
+:root {
+  --primary-color: #42b983;
+  --hover-color: #33a06f;
+  --gap-size: 20px;
+}
+
+/* 全局重置和基础样式 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
